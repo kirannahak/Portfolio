@@ -1,6 +1,6 @@
 
 import React, { useRef, useEffect, useState } from 'react';
-import { SectionAlignment } from '../types';
+import { SectionAlignment } from './types';
 
 interface StorySectionProps {
   id: string;
