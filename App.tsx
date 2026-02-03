@@ -1,8 +1,8 @@
 
 import React from 'react';
-import { Navigation } from './components/Navigation';
-import { ParallaxBackground } from './components/ParallaxBackground';
-import { StorySection } from './components/StorySection';
+import { Navigation } from './Navigation';
+import { ParallaxBackground } from './ParallaxBackground';
+import { StorySection } from './StorySection';
 import { SectionAlignment } from './types';
 
 const App: React.FC = () => {
